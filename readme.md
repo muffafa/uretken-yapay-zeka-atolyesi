@@ -12,6 +12,8 @@
     <small> May, 2024</small>
   </sub>
 
+![Mustafa](<Mustafa_Header.png>)
+
 ---
 
 ## 👁️ Yapay Zeka Nedir?
