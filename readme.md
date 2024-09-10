@@ -134,9 +134,19 @@ Tay Chatbot - Microsoft
 
 - Elements of AI: <https://course.elementsofai.com/>
 - GPT-4o vs. GPT-4 vs. Gemini 1.5 — Performance Analysis <https://medium.com/@lars.chr.wiik/gpt-4o-vs-gpt-4-vs-gemini-1-5-performance-analysis-6bd207a2c580>
-- 
+- [ChatGPT Her Şeyi Nasıl Bilebiliyor? (Youtube / Evrim Ağacı)](https://youtu.be/7foCbOktTZM?si=XR5aBkWGWALC5ysD)
 
 ## Haberler
+
+### YouTube Kanalları
+
+- [@cicekileteknoloji](https://www.youtube.com/@cicekileteknoloji)
+- [@erhanmeydan](https://www.youtube.com/@erhanmeydan)
+- [@bo-sar](https://www.youtube.com/@bo-sar)
+- [@engineerprompt](https://www.youtube.com/@engineerprompt)
+- [@AIJasonZ](https://www.youtube.com/@AIJasonZ)
+
+### Diğer
 
 - Grok <https://youtu.be/EdjGnqM1AjI?si=TfTw_DPJ0PDudk7Q>
 - Microsoft Build 2024: Everything Revealed in 9 Minutes <https://www.youtube.com/watch?v=w1EepB0mCbE>
