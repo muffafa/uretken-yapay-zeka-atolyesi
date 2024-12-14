@@ -102,17 +102,18 @@ John Searle tarafından önerilen bu deney, yapay zekanın gerçekten “anlayı
 
 ### 1.3 Genel Terimler (Açıklayıcı)
 
+- **Open AI**: ChatGPT, GPT-4, GPT4-O modelini geliştiren şirket.
+- **GPT (Generative Pre-Trained Transformer)**: Önceden eğitilmiş, metin üretme ve dönüştürme görevleri için kullanılan bir yapay zeka modeli.
+- **Transformer**, veri içindeki ilişkileri öğrenmeyi sağlayan bir sinir ağı mimarisidir.
+- **ChatGPT**: OpenAI tarafından geliştirilen, diyalog konusunda uzmanlaşmış yapay zeka sohbet robotu. <https://chat.openai.com/>
+- **Llama**: Facebook tarafından geliştirilen büyük dil modeli. Açık kaynaktır. <https://llama.meta.com/>
+- **Gemini**: Google tarafından geliştirilen büyük dil modeli. Google araçları ile etkileşimlidir. <https://gemini.google.com/>
 - **LLM (Large Language Models)**: Bir milyar veya daha fazla parametre içeren, dil işleme yeteneklerine sahip modeller. **Vektör**, dil modellerinde anlamı temsil eden sayısal değerler dizisidir.
 - **Ada GPT, Dall-e2, Rainbow, Whisper, Currie**: Metin biçimlendirme, görsel oluşturma, ses komutlarını metne çevirme gibi alanlarda uzmanlaşmış modeller.
 - **Fine Tuning**: Verilerin özel ihtiyaçlara göre yapay zekaya yanıt verecek şekilde uyarlanması işlemi.
 - **Prompt**: Yapay zekaya ne hakkında yanıt vermesi gerektiğini belirten komut veya sorgu.
 - **Token**: Yapay zeka modellerinde kelimelerin veya kelime parçalarının hesaplamalarda kullanıldığı birim. 1000 token yaklaşık 750 kelimeye eşittir. <https://help.openai.com/en/articles/4936856-what-are-tokens-and-how-to-count-them>
 - **Copilot**: Kullanıcı verimliliğini artıran yapay zeka asistanı. Microsoft tarafından yayınlanmıştır. <https://copilot.microsoft.com/>
-- **ChatGPT**: OpenAI tarafından geliştirilen, diyalog konusunda uzmanlaşmış yapay zeka sohbet robotu. <https://chat.openai.com/>
-- **Open AI**: ChatGPT, GPT-4, GPT4-O modelini geliştiren şirket.
-- **GPT (Generative Pre-Trained Transformer)**: Önceden eğitilmiş, metin üretme ve dönüştürme görevleri için kullanılan bir yapay zeka modeli. **Transformer**, veri içindeki ilişkileri öğrenmeyi sağlayan bir sinir ağı mimarisidir.
-- **Llama**: Facebook tarafından geliştirilen büyük dil modeli. Açık kaynaktır. <https://llama.meta.com/>
-- **Gemini**: Google tarafından geliştirilen büyük dil modeli. Google araçları ile etkileşimlidir. <https://gemini.google.com/>
 
 ### 1.4 Temel ve İleri Yapay Zeka Kavramları
 
