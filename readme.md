@@ -1,4 +1,4 @@
-# Üretken Yapay Zeka Atöylesi
+# Üretken Yapay Zeka Atöylesi 🤖
 
   <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/muffafa/">
     <img alt= "Linkedin Follow" src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
@@ -9,7 +9,9 @@
 
   <sub>Author:
     <a href="https://linktr.ee/muffafa" target="_blank">Muhammed Mustafa (muffafa) Savar</a><br>
-    <small> May, 2024</small>
+    <small>First Commit: May, 2024</small>
+    <br/>
+    <small>Last Commit: Dec, 2024</small>
   </sub>
 
 ![Mustafa](<Mustafa_Header.png>)
@@ -18,9 +20,34 @@
 
 **🚨 Bu içerik tamamlanmamış olup sürekli olarak güncellenecektir...**
 
-## 👁️ Yapay Zeka Nedir?
+---
 
-### 1- Yapay Zeka Kısa Tarihi
+## 0. 👇🏻 İçindekiler
+
+- [Üretken Yapay Zeka Atöylesi 🤖](#üretken-yapay-zeka-atöylesi-)
+  - [0. 👇🏻 İçindekiler](#0--i̇çindekiler)
+  - [1. 👁️ Yapay Zeka Nedir?](#1-️-yapay-zeka-nedir)
+    - [1.1 Yapay Zeka Kısa Tarihi](#11-yapay-zeka-kısa-tarihi)
+    - [1.2 Yapay Zeka Türleri ve Kavramları](#12-yapay-zeka-türleri-ve-kavramları)
+    - [1.3 Genel Terimler (Açıklayıcı)](#13-genel-terimler-açıklayıcı)
+    - [1.4 Temel ve İleri Yapay Zeka Kavramları](#14-temel-ve-i̇leri-yapay-zeka-kavramları)
+      - [1.4.1 Yapay Zeka (Artificial Intelligence)](#141-yapay-zeka-artificial-intelligence)
+      - [1.4.2 Makine Öğrenmesi (Machine Learning)](#142-makine-öğrenmesi-machine-learning)
+      - [1.4.3 Sinir Ağları (Neural Networks)](#143-sinir-ağları-neural-networks)
+      - [1.4.4 Derin Öğrenme (Deep Learning)](#144-derin-öğrenme-deep-learning)
+    - [1.5 Yapay Zekanın Kullanım Alanları](#15-yapay-zekanın-kullanım-alanları)
+  - [2. 🤖 Prompt Mühendisliği ve Üretken Yapay Zeka Araçları](#2--prompt-mühendisliği-ve-üretken-yapay-zeka-araçları)
+  - [3. 👀 Etik, Yasal ve Toplumsal Yönleri](#3--etik-yasal-ve-toplumsal-yönleri)
+  - [4. 📒 Ek Kaynkalar](#4--ek-kaynkalar)
+  - [5. 🗞️ Önemli Haberler](#5-️-önemli-haberler)
+  - [6. 🎥 YouTube Kanalları](#6--youtube-kanalları)
+  - [7. 🙋🏻 Diğer İçerikler](#7--diğer-i̇çerikler)
+
+---
+
+## 1. 👁️ Yapay Zeka Nedir?
+
+### 1.1 Yapay Zeka Kısa Tarihi
 
 <https://tr.wikipedia.org/wiki/Yapay_zek%C3%A2>
 
@@ -42,7 +69,7 @@ against AI:
 Tay Chatbot - Microsoft
 <https://en.wikipedia.org/wiki/Tay_(chatbot)>
 
-### 2- Yapay Zeka Türleri ve Kavramları
+### 1.2 Yapay Zeka Türleri ve Kavramları
 
 **Zayıf yapay zeka**, belirli görevlerde insan zekasını taklit edebilen ancak geniş çaplı zeka ve öğrenme yeteneklerine sahip olmayan sistemlerdir. Yetenekleri, tasarlandıkları görevlerle sınırlıdır. Örnekler arasında dijital asistanlar ve e-posta filtreleme sistemleri bulunur.
 
@@ -50,7 +77,7 @@ Tay Chatbot - Microsoft
 
 **Yapay genel zeka (AGI)**, insan zekasının tüm alanlarda eşdeğer veya üstün performans gösteren yapay zeka sistemleridir ve şu an için sadece teorik bir kavramdır. Tüm alanlarda genel bir anlayış ve problem çözme yeteneği sağlayabilir. Ancak, bu teknolojinin geliştirilmesi potansiyel etik ve güvenlik sorunları yaratabilir.
 
-### Genel Terimler (Açıklayıcı)
+### 1.3 Genel Terimler (Açıklayıcı)
 
 - **LLM (Large Language Models)**: Bir milyar veya daha fazla parametre içeren, dil işleme yeteneklerine sahip modeller. **Vektör**, dil modellerinde anlamı temsil eden sayısal değerler dizisidir.
 - **Ada GPT, Dall-e2, Rainbow, Whisper, Currie**: Metin biçimlendirme, görsel oluşturma, ses komutlarını metne çevirme gibi alanlarda uzmanlaşmış modeller.
@@ -64,11 +91,11 @@ Tay Chatbot - Microsoft
 - **Llama**: Facebook tarafından geliştirilen büyük dil modeli. Açık kaynaktır. <https://llama.meta.com/>
 - **Gemini**: Google tarafından geliştirilen büyük dil modeli. Google araçları ile etkileşimlidir. <https://gemini.google.com/>
 
-### Temel ve İleri Yapay Zeka Kavramları
+### 1.4 Temel ve İleri Yapay Zeka Kavramları
 
 ![AI Concepts](ai_concepts.jpeg)
 
-#### 1. Yapay Zeka (Artificial Intelligence)
+#### 1.4.1 Yapay Zeka (Artificial Intelligence)
 
 - **Tanım**: Makinelerin insan benzeri zeka sergilemesi.
 - **Kapsam**:
@@ -79,7 +106,7 @@ Tay Chatbot - Microsoft
   - Akıllı Robot (Intelligent Robot)
   - Otomatik Akıl Yürütme (Automatic Reasoning)
 
-#### 2. Makine Öğrenmesi (Machine Learning)
+#### 1.4.2 Makine Öğrenmesi (Machine Learning)
 
 - **Tanım**: Makinelerin verilerden öğrenmesini sağlayan yöntemler bütünü.
 - **Yöntemler**:
@@ -91,14 +118,14 @@ Tay Chatbot - Microsoft
   - Rastgele Ormanlar (Random Forests)
   - Karar Ağaçları (Decision Trees)
 
-#### 3. Sinir Ağları (Neural Networks)
+#### 1.4.3 Sinir Ağları (Neural Networks)
 
 - **Tanım**: İnsan beynindeki sinir hücrelerini taklit eden bilgi işleme sistemleri.
 - **Yöntemler**:
   - Çok Katmanlı Algılayıcılar (MLP - Multilayer Perceptrons)
   - Boltzmann Sinir Ağları (Boltzmann Neural Networks)
 
-#### 4. Derin Öğrenme (Deep Learning)
+#### 1.4.4 Derin Öğrenme (Deep Learning)
 
 - **Tanım**: Verileri çok katmanlı sinir ağlarıyla işleyen makine öğrenimi yöntemi.
 - **Yöntemler**:
@@ -107,9 +134,11 @@ Tay Chatbot - Microsoft
   - Üretici Çekişmeli Ağlar (GAN - Generative Adversarial Networks)
   - Derin İnanç Ağları (DBN - Deep Belief Networks)
 
-### 3- Yapay Zekanın Kullanım Alanları
+### 1.5 Yapay Zekanın Kullanım Alanları
 
-## 🤖 Prompt Mühendisliği ve Yapay Zeka Araçları
+---
+
+## 2. 🤖 Prompt Mühendisliği ve Üretken Yapay Zeka Araçları
 
 - Prompt Yazım Teknikleri <https://github.com/atilsamancioglu/PromptEngineeringCourse/blob/main/TurkishGuide.md>
 ![ai framework](ai-framework.jpeg)
@@ -121,7 +150,9 @@ Tay Chatbot - Microsoft
 - Kod için Üretken Yapay Zeka Araçları: GitHub Copilot, Devin
 - Diğer Üretken Yapay Zeka Araçları: ChatPDF, Notion.AI, Merlin
 
-## 👀 Etik, Yasal ve Toplumsal Yönleri
+---
+
+## 3. 👀 Etik, Yasal ve Toplumsal Yönleri
 
 - Telif Hakları ve Fikri Mülkiyet
 - Özgünlük ve Yaratıcılık Üzerine Etkileri
@@ -130,15 +161,23 @@ Tay Chatbot - Microsoft
 - Yanıltıcı İçerik ve Sahte Bilgi Üretimi (Deepfake ve Dezenformasyon)
 - Üretken yapay zekanın sorumlu kullanımı
 
-## Ek Kaynkalar
+---
+
+## 4. 📒 Ek Kaynkalar
 
 - Elements of AI: <https://course.elementsofai.com/>
 - GPT-4o vs. GPT-4 vs. Gemini 1.5 — Performance Analysis <https://medium.com/@lars.chr.wiik/gpt-4o-vs-gpt-4-vs-gemini-1-5-performance-analysis-6bd207a2c580>
 - [ChatGPT Her Şeyi Nasıl Bilebiliyor? (Youtube / Evrim Ağacı)](https://youtu.be/7foCbOktTZM?si=XR5aBkWGWALC5ysD)
 
-## Haberler
+---
 
-### YouTube Kanalları
+## 5. 🗞️ Önemli Haberler
+
+- Devin AI <https://www.ntv.com.tr/teknoloji/dunyanin-ilk-yapay-zeka-yazilim-muhendisi-devin,VRZ1WLa4qE2_si80pHwRXw>
+
+---
+
+## 6. 🎥 YouTube Kanalları
 
 - [@cicekileteknoloji](https://www.youtube.com/@cicekileteknoloji)
 - [@erhanmeydan](https://www.youtube.com/@erhanmeydan)
@@ -146,10 +185,11 @@ Tay Chatbot - Microsoft
 - [@engineerprompt](https://www.youtube.com/@engineerprompt)
 - [@AIJasonZ](https://www.youtube.com/@AIJasonZ)
 
-### Diğer
+---
+
+## 7. 🙋🏻 Diğer İçerikler
 
 - Grok <https://youtu.be/EdjGnqM1AjI?si=TfTw_DPJ0PDudk7Q>
 - Microsoft Build 2024: Everything Revealed in 9 Minutes <https://www.youtube.com/watch?v=w1EepB0mCbE>
 - Sora - Creating video from text <https://openai.com/index/sora/>
 - GPT-4o Her Şeyi Değiştirir! <https://youtu.be/jZxV38uo6fE?si=Nhx9X469o9LzblHr>
-- Devin AI <https://www.ntv.com.tr/teknoloji/dunyanin-ilk-yapay-zeka-yazilim-muhendisi-devin,VRZ1WLa4qE2_si80pHwRXw>
