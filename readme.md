@@ -56,30 +56,30 @@
 
 #### 1.1.1 Yapay Zekanın Tarihsel Gelişimi
 
-- 1956 - İstatistiksel Modelleme: İnsan zekasını taklit edebilen veya aşabilen akıllı makineler yaratmayı amaçlayan bilgisayar bilimi alanı.
+- **1956 - İstatistiksel Modelleme:** İnsan zekasını taklit edebilen veya aşabilen akıllı makineler yaratmayı amaçlayan bilgisayar bilimi alanı.
   
-- 1997 - Makine Öğrenmesi: Makinelerin mevcut verilerden öğrenmesini ve tahminler yapmasını sağlayan yapay zeka alt kümesi.
+- **1997 - Makine Öğrenmesi:** Makinelerin mevcut verilerden öğrenmesini ve tahminler yapmasını sağlayan yapay zeka alt kümesi.
   
-- 2017 - Derin Öğrenme: Verileri işlemek ve karar vermek için sinir ağlarının katmanlarının kullanıldığı bir makine öğrenimi tekniği.
+- **2017 - Derin Öğrenme:** Verileri işlemek ve karar vermek için sinir ağlarının katmanlarının kullanıldığı bir makine öğrenimi tekniği.
 
-- 2021 - Generative AI: Bilgi istemleri veya mevcut verilerle yeni yazılı, görsel ve işitsel içerik oluşturma teknolojisi.
+- **2021 - Generative AI:** Bilgi istemleri veya mevcut verilerle yeni yazılı, görsel ve işitsel içerik oluşturma teknolojisi.
 
 #### 1.1.2 Yapay Zekanın Dönüm Noktaları
 
-- Alan Turing ve Yapay Zekanın Teorik Temelleri (1950’ler)  
+- **Alan Turing ve Yapay Zekanın Teorik Temelleri (1950’ler):**
 1950 yılında Alan Turing, ünlü makalesi **“Computing Machinery and Intelligence”** ile “Makineler düşünebilir mi?” sorusunu ortaya attı. Bu makalede, makinelerin insan zekasını taklit edebileceği fikrini savunan Turing, **Turing Testi** ile makinelerin zekasını değerlendirmek için bir kriter geliştirdi. Bu, yapay zekanın teorik temellerinin atıldığı önemli bir başlangıç noktasıdır.  
-- Dartmouth Konferansı ve Yapay Zekanın Doğuşu (1956)  
+- **Dartmouth Konferansı ve Yapay Zekanın Doğuşu (1956)**
 1956 yılında düzenlenen **Dartmouth Konferansı**, John McCarthy, Marvin Minsky, Nathaniel Rochester ve Claude Shannon gibi isimlerin öncülüğünde gerçekleştirildi. Bu konferans, "Yapay Zeka" teriminin ilk kez kullanıldığı ve YZ’nin bilimsel bir disiplin olarak kabul edildiği önemli bir dönüm noktasıdır.  
 Bu toplantı, YZ araştırmalarının hızlanmasını ve üniversitelerde YZ laboratuvarlarının kurulmasını sağladı. Makinelerin öğrenme, problem çözme ve dil anlama gibi insan zekasına özgü yeteneklerini taklit etme potansiyeli bu konferansta derinlemesine ele alındı.
-- Cahit Arf ve "Makineler Düşünebilir mi?" Makalesi  
-Ünlü Türk matematikçi **Cahit Arf**, “Makineler Düşünebilir mi?” adlı makalesiyle YZ üzerine felsefi ve bilimsel tartışmalara önemli bir katkı sağladı.  
+- **Cahit Arf ve "Makineler Düşünebilir mi?" Makalesi**  
+Ünlü Türk matematikçi Cahit Arf, “Makineler Düşünebilir mi?” adlı makalesiyle YZ üzerine felsefi ve bilimsel tartışmalara önemli bir katkı sağladı.  
 📄 **Makalenin tam metnine ulaşmak için:** [Cahit Arf Makalesi](https://www.mbkaya.com/hukuk/cahit-arf-makine-dusunebilir-mi-orjinal.pdf)
 
-- 1997: Deep Blue ve Garry Kasparov Maçı  
+- **1997: Deep Blue ve Garry Kasparov Maçı**
 IBM’in geliştirdiği **Deep Blue** isimli yapay zeka, dünya satranç şampiyonu **Garry Kasparov**’u yenerek YZ tarihinde önemli bir dönüm noktası oluşturdu. Bu zafer, makinelerin karmaşık düşünme ve strateji gerektiren görevlerde insanları geçebileceğini gösterdi.  
 📹 **İzlemek için:** [Deep Blue vs Kasparov Maçı](https://www.youtube.com/watch?v=KF6sLCeBj0s)
 
-- 2016: AlphaGo ve Lee Sedol Maçı  
+- **2016: AlphaGo ve Lee Sedol Maçı**  
 Google DeepMind tarafından geliştirilen **AlphaGo**, dünyanın en karmaşık oyunlarından biri olan Go’da şampiyon **Lee Sedol**’u yendi. Bu zafer, YZ’nin yalnızca mantıksal değil, yaratıcı ve sezgisel kararlar alabilme kapasitesini de ortaya koydu.  
 📹 **İzlemek için:** [AlphaGo vs Lee Sedol Maçı](https://www.youtube.com/watch?v=WXuK6gekU1Y)
 
@@ -89,7 +89,8 @@ Google DeepMind tarafından geliştirilen **AlphaGo**, dünyanın en karmaşık 
 <https://www.theguardian.com/technology/2023/jul/25/joseph-weizenbaum-inventor-eliza-chatbot-turned-against-artificial-intelligence-ai>
 - **Tay Chatbot - Microsoft**
 <https://en.wikipedia.org/wiki/Tay_(chatbot)>
-- **Chinese Room (Çince Odası) Düşünce Deneyi (1980)**: John Searle tarafından önerilen bu deney, yapay zekanın gerçekten “anlayıp anlamadığı” sorusunu sorgular. Deneyde, Çince bilmeyen bir kişi, sembolleri bir talimat kitabına göre eşleştirerek dışarıdaki birine Çince yanıtlar verir. Ancak kişi, sembollerin anlamını bilmez, sadece manipüle eder. Searle’a göre bu, yapay zekanın da yalnızca sembolleri işlediğini, ancak gerçek anlamda bir “anlama” kapasitesine sahip olmadığını gösterir. Deney, güçlü yapay zeka ile zayıf yapay zeka arasındaki fark ve YZ’nin anlam yaratma yetisi üzerine önemli tartışmalara zemin hazırlamıştır.
+- **Chinese Room (Çince Odası) Düşünce Deneyi (1980):**
+John Searle tarafından önerilen bu deney, yapay zekanın gerçekten “anlayıp anlamadığı” sorusunu sorgular. Deneyde, Çince bilmeyen bir kişi, sembolleri bir talimat kitabına göre eşleştirerek dışarıdaki birine Çince yanıtlar verir. Ancak kişi, sembollerin anlamını bilmez, sadece manipüle eder. Searle’a göre bu, yapay zekanın da yalnızca sembolleri işlediğini, ancak gerçek anlamda bir “anlama” kapasitesine sahip olmadığını gösterir. Deney, güçlü yapay zeka ile zayıf yapay zeka arasındaki fark ve YZ’nin anlam yaratma yetisi üzerine önemli tartışmalara zemin hazırlamıştır.
 
 ### 1.2 Yapay Zeka Türleri ve Kavramları
 
